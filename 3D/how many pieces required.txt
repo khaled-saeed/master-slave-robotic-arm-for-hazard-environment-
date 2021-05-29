@@ -1,0 +1,4 @@
+Finger2.2 ------------>    1
+HandServoHolder ------>    1
+support roulement ---->    4
+Podporanj ------------>    2
